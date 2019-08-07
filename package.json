@@ -1,5 +1,10 @@
 {
-  "name": "svelte-app",
+  "name": "parse-and-transform-anchors-with-cheerio",
+  "keywords": [
+    "svelte",
+    "cheerio",
+    "sanitize-html"
+  ],
   "version": "1.0.0",
   "devDependencies": {
     "cross-env": "^5.2.0",
